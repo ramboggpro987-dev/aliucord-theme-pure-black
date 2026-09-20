@@ -5,7 +5,8 @@
         "name": "Noir"
     },
     "background": {
-        "url": "https:\/\/raw.githubusercontent.com\/ramboggpro987-dev\/aliucord-theme-pure-black\/refs\/heads\/main\/hi.jpeg"
+        "url": "https:\/\/raw.githubusercontent.com\/ramboggpro987-dev\/aliucord-theme-pure-black\/refs\/heads\/main\/hi.jpeg",
+        "blur_radius": 7.5
     },
     "fonts": {
         "*": "https:\/\/github.com\/ramboggpro987-dev\/aliucord-theme-pure-black\/raw\/refs\/heads\/main\/UbuntuMono-R.ttf",
@@ -20,7 +21,7 @@
         "input_background": -15000805,
         "blocked_bg": -14745600,
         "background": -14671840,
-        "background_secondary": -13421773
+        "background_secondary": -14277082
     },
     "colors": {},
     "drawable_tints": {},
