@@ -1,0 +1,28 @@
+{
+    "manifest": {
+        "author": "komi._.xd",
+        "version": "1.0.0",
+        "name": "Noir"
+    },
+    "background": {
+        "url": "https:\/\/raw.githubusercontent.com\/ramboggpro987-dev\/aliucord-theme-pure-black\/refs\/heads\/main\/hi.jpeg"
+    },
+    "fonts": {
+        "*": "https:\/\/github.com\/ramboggpro987-dev\/aliucord-theme-pure-black\/raw\/refs\/heads\/main\/UbuntuMono-R.ttf",
+        "ginto_bold": "https:\/\/github.com\/ramboggpro987-dev\/aliucord-theme-pure-black\/raw\/refs\/heads\/main\/UbuntuMono-B.ttf",
+        "ginto_regular": "https:\/\/github.com\/ramboggpro987-dev\/aliucord-theme-pure-black\/raw\/refs\/heads\/main\/Ubuntu-R.ttf"
+    },
+    "simple_colors": {
+        "accent": -10066330,
+        "mention_highlight": 1536398227,
+        "active_channel": -4276546,
+        "statusbar": -14408668,
+        "input_background": -15000805,
+        "blocked_bg": -14745600,
+        "background": -14671840,
+        "background_secondary": -13421773
+    },
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
